@@ -9,9 +9,9 @@ class DataExtraction(object):
 
 	def execute(self):
 		url = "http://www.japannationalfootballteam.com/"
-		info = self.dataListSeason(url)
-		self.detailSeason(url, info)
-		self.dataManager(url)
+		# info = self.dataListSeason(url)
+		# self.detailSeason(url, info)
+		# self.dataManager(url)
 		self.dataListPlayer(url)
 
 	def getBSObj(self, url):
@@ -42,7 +42,7 @@ class DataExtraction(object):
 			self.write_csv(listPlayer,header,"output/player_season/"+year+".csv")
 
 	def dataListPlayer(self,url):
-		header = [['Players','Birth Place','Birth Date','GP','G','Debut','Last Match']]
+		header = [['Players','Link','Birth Place','Birth Date','GP','G','Debut','Debut – Link','Last Match','Last Match – Link']]
 		bsObj = self.getBSObj(url + "en/players/index.html")
 		listPlayer = self.getData(bsObj,{"class":"players"}, True)
 		self.write_csv(listPlayer,header,"output/players.csv")
