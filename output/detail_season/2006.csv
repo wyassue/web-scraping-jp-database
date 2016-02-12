@@ -1,0 +1,20 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,2006-02-10,USA,../vs/usa.html,A,L,2 - 3,0210.html,"37,365",San Francisco,International Friendly
+2,2006-02-18,Finland,../vs/fin.html,H,W,2 - 0,0218.html,"40,702",Shizuoka,Kirin Challenge Cup
+3,2006-02-22,India,../vs/ind.html,H,W,6 - 0,0222.html,"38,025",Yokohama,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html
+4,2006-02-28,Bosnia-Herzegovina,../vs/bih.html,N,D,2 - 2,0228.html,"8,120",Dortmund,International Friendly
+5,2006-03-30,Ecuador,../vs/ecu.html,H,W,1 - 0,0330.html,"36,507",Oita,Kirin Challenge Cup
+6,2006-05-09,Bulgaria,../vs/bul.html,H,L,1 - 2,0509.html,"44,851",Osaka,Kirin Cup Soccer
+7,2006-05-13,Scotland,../vs/sco.html,H,D,0 - 0,0513.html,"58,648",Saitama,Kirin Cup Soccer
+8,2006-05-30,Germany,../vs/ger.html,A,D,2 - 2,0530.html,"22,500",Leverkusen,International Friendly
+9,2006-06-04,Malta,../vs/mlt.html,N,W,1 - 0,0604.html,"10,802",Dusseldorf,International Friendly
+10,2006-06-12,Australia,../vs/aus.html,N,L,1 - 3,0612.html,"46,000",Kaiserslautern,FIFA World Cup,../competitions/fifa_world_cup.html
+11,2006-06-18,Croatia,../vs/cro.html,N,D,0 - 0,0618.html,"41,000",Nuremberg,FIFA World Cup,../competitions/fifa_world_cup.html
+12,2006-06-22,Brazil,../vs/bra.html,N,L,1 - 4,0622.html,"65,000",Dortmund,FIFA World Cup,../competitions/fifa_world_cup.html
+13,2006-08-09,Trinidad and Tobago,../vs/tri.html,H,W,2 - 0,0809.html,"47,482",Tokyo,Kirin Challenge Cup
+14,2006-08-16,Yemen,../vs/yem.html,H,W,2 - 0,0816.html,"40,913",Niigata,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html
+15,2006-09-03,Saudi Arabia,../vs/ksa.html,A,L,0 - 1,0903.html,"15,000",Jeddah,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html
+16,2006-09-06,Yemen,../vs/yem.html,A,W,1 - 0,0906.html,"7,000",Sana'a,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html
+17,2006-10-04,Ghana,../vs/gha.html,H,L,0 - 1,1004.html,"52,437",Yokohama,Kirin Challenge Cup
+18,2006-10-11,India,../vs/ind.html,A,W,3 - 0,1011.html,"5,000",Bangalore,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html
+19,2006-11-15,Saudi Arabia,../vs/ksa.html,H,W,3 - 1,1115.html,"40,965",Sapporo,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html

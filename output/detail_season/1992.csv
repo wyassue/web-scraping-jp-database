@@ -1,0 +1,12 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1992-05-31,Argentina,../vs/arg.html,H,L,0 - 1,0531.html,"60,000",Tokyo,Kirin Cup Soccer
+2,1992-06-07,Wales,../vs/wal.html,H,L,0 - 1,0607.html,"30,000",Matsuyama,Kirin Cup Soccer
+3,1992-08-22,Korea Republic,../vs/kor.html,N,D,0 - 0,0822.html,"50,000",Beijing,Dynasty Cup,../competitions/dynasty_cup.html
+4,1992-08-24,China PR,../vs/chn.html,A,W,2 - 0,0824.html,"50,000",Beijing,Dynasty Cup,../competitions/dynasty_cup.html
+5,1992-08-26,Korea DPR,../vs/prk.html,N,W,4 - 1,0826.html,"20,000",Beijing,Dynasty Cup,../competitions/dynasty_cup.html
+6,1992-08-29,Korea Republic,../vs/kor.html,N,D,P,2 - 2,0829.html,"15,000",Beijing,Dynasty Cup,../competitions/dynasty_cup.html
+7,1992-10-30,United Arab Emirates,../vs/uae.html,H,D,0 - 0,1030.html,"9,000",Onomichi,AFC Asian Cup,../competitions/afc_asian_cup.html
+8,1992-11-01,Korea DPR,../vs/prk.html,H,D,1 - 1,1101.html,"32,000",Hiroshima,AFC Asian Cup,../competitions/afc_asian_cup.html
+9,1992-11-03,Iran,../vs/irn.html,H,W,1 - 0,1103.html,"37,000",Hiroshima,AFC Asian Cup,../competitions/afc_asian_cup.html
+10,1992-11-06,China PR,../vs/chn.html,H,W,3 - 2,1106.html,"15,000",Hiroshima,AFC Asian Cup,../competitions/afc_asian_cup.html
+11,1992-11-08,Saudi Arabia,../vs/ksa.html,H,W,1 - 0,1108.html,"50,000",Hiroshima,AFC Asian Cup,../competitions/afc_asian_cup.html

@@ -1,0 +1,20 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,2008-01-26,Chile,../vs/chi.html,H,D,0 - 0,0126.html,"37,261",Tokyo,Kirin Challenge Cup
+2,2008-01-30,Bosnia-Herzegovina,../vs/bih.html,H,W,3 - 0,0130.html,"26,971",Tokyo,Kirin Challenge Cup
+3,2008-02-06,Thailand,../vs/tha.html,H,W,4 - 1,0206.html,"35,130",Saitama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+4,2008-02-17,Korea DPR,../vs/prk.html,N,D,1 - 1,0217.html,"15,000",Chongqing,East Asian Football Championship,../competitions/eaff_east_asian_cup.html
+5,2008-02-20,China PR,../vs/chn.html,A,W,1 - 0,0220.html,"38,000",Chongqing,East Asian Football Championship,../competitions/eaff_east_asian_cup.html
+6,2008-02-23,Korea Republic,../vs/kor.html,N,D,1 - 1,0223.html,"29,000",Chongqing,East Asian Football Championship,../competitions/eaff_east_asian_cup.html
+7,2008-03-26,Bahrain,../vs/bhr.html,A,L,0 - 1,0326.html,"26,000",Manama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+8,2008-05-24,Cote d'Ivoire,../vs/civ.html,H,W,1 - 0,0524.html,"40,710",Toyota,Kirin Cup Soccer
+9,2008-05-27,Paraguay,../vs/par.html,H,D,0 - 0,0527.html,"27,998",Saitama,Kirin Cup Soccer
+10,2008-06-02,Oman,../vs/oma.html,H,W,3 - 0,0602.html,"46,764",Yokohama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+11,2008-06-07,Oman,../vs/oma.html,A,D,1 - 1,0607.html,"6,500",Muscat,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+12,2008-06-14,Thailand,../vs/tha.html,A,W,3 - 0,0614.html,"25,000",Bangkok,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+13,2008-06-22,Bahrain,../vs/bhr.html,H,W,1 - 0,0622.html,"51,180",Saitama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+14,2008-08-20,Uruguay,../vs/uru.html,H,L,1 - 3,0820.html,"31,133",Sapporo,Kirin Challenge Cup
+15,2008-09-06,Bahrain,../vs/bhr.html,A,W,3 - 2,0906.html,"20,000",Manama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+16,2008-10-09,United Arab Emirates,../vs/uae.html,H,D,1 - 1,1009.html,"31,853",Niigata,Kirin Challenge Cup
+17,2008-10-15,Uzbekistan,../vs/uzb.html,H,D,1 - 1,1015.html,"55,142",Saitama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+18,2008-11-13,Syria,../vs/syr.html,H,W,3 - 1,1113.html,"25,004",Kobe,Kirin Challenge Cup
+19,2008-11-19,Qatar,../vs/qat.html,A,W,3 - 0,1119.html,"13,000",Doha,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html

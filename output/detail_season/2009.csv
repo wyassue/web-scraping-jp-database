@@ -1,0 +1,18 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,2009-01-20,Yemen,../vs/yem.html,H,W,2 - 1,0120.html,"30,654",Kumamoto,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html
+2,2009-01-28,Bahrain,../vs/bhr.html,A,L,0 - 1,0128.html,"11,200",Manama,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html
+3,2009-02-04,Finland,../vs/fin.html,H,W,5 - 1,0204.html,"34,532",Tokyo,Kirin Challenge Cup
+4,2009-02-11,Australia,../vs/aus.html,H,D,0 - 0,0211.html,"65,571",Yokohama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+5,2009-03-28,Bahrain,../vs/bhr.html,H,W,1 - 0,0328.html,"57,276",Saitama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+6,2009-05-27,Chile,../vs/chi.html,H,W,4 - 0,0527.html,"43,531",Osaka,Kirin Cup Soccer
+7,2009-05-31,Belgium,../vs/bel.html,H,W,4 - 0,0531.html,"42,520",Tokyo,Kirin Cup Soccer
+8,2009-06-06,Uzbekistan,../vs/uzb.html,A,W,1 - 0,0606.html,"34,000",Tashkent,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+9,2009-06-10,Qatar,../vs/qat.html,H,D,1 - 1,0610.html,"60,256",Yokohama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+10,2009-06-17,Australia,../vs/aus.html,A,L,1 - 2,0617.html,"69,238",Melbourne,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+11,2009-09-05,Netherlands,../vs/ned.html,A,L,0 - 3,0905.html,"23,000",Enschede,International Friendly
+12,2009-09-09,Ghana,../vs/gha.html,N,W,4 - 3,0909.html,"3,000",Utrecht,International Friendly
+13,2009-10-08,Hong Kong,../vs/hkg.html,H,W,6 - 0,1008.html,"16,028",Shizuoka,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html
+14,2009-10-10,Scotland,../vs/sco.html,H,W,2 - 0,1010.html,"61,285",Yokohama,Kirin Challenge Cup
+15,2009-10-14,Togo,../vs/tog.html,H,W,5 - 0,1014.html,"32,852",Miyagi,Kirin Challenge Cup
+16,2009-11-14,South Africa,../vs/rsa.html,A,D,0 - 0,1114.html,"40,000",Port Elizabeth,International Friendly
+17,2009-11-18,Hong Kong,../vs/hkg.html,A,W,4 - 0,1118.html,"13,254",Hong Kong,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html

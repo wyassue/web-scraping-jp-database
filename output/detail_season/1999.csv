@@ -1,0 +1,8 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1999-03-31,Brazil,../vs/bra.html,H,L,0 - 2,0331.html,"53,903",Tokyo,Kirin Beverage
+2,1999-06-03,Belgium,../vs/bel.html,H,D,0 - 0,0603.html,"54,685",Tokyo,Kirin Cup Soccer
+3,1999-06-06,Peru,../vs/per.html,H,D,0 - 0,0606.html,"67,354",Yokohama,Kirin Cup Soccer
+4,1999-06-29,Peru,../vs/per.html,N,L,2 - 3,0629.html,Asuncion,Copa America,../competitions/copa_america.html
+5,1999-07-02,Paraguay,../vs/par.html,A,L,0 - 4,0702.html,Asuncion,Copa America,../competitions/copa_america.html
+6,1999-07-05,Bolivia,../vs/bol.html,N,D,1 - 1,0705.html,Pedro Juan Caballero,Copa America,../competitions/copa_america.html
+7,1999-09-08,Iran,../vs/irn.html,H,D,1 - 1,0908.html,"35,860",Yokohama,Kirin Challenge

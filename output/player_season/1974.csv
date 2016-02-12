@@ -1,0 +1,24 @@
+Player,Link,Club,MP,GP,GS,G,PK,YC,RC
+SETA Tatsuhiko (GK),../players/seta_tatsuhiko.html,Hitachi,270,3,3,0,0,0,0
+YOKOYAMA Kenzo (GK),../players/yokoyama_kenzo.html,Mitsubishi Heavy Industries,360,4,4,0,0,0,0
+ARAI Kozo,../players/arai_kozo.html,Furukawa Electric,435,5,5,1,0,0,0
+DAINI Kuniya,../players/daini_kuniya.html,Mitsubishi Heavy Industries,630,7,7,0,0,0,0
+FUJIGUCHI Mitsunori,../players/fujiguchi_mitsunori.html,Keio University,90,1,1,0,0,0,0
+FUJISHIMA Nobuo,../players/fujishima_nobuo.html,Nippon Kokan,280+?,6,5,0,0,0,0
+FURUTA Atsuyoshi,../players/furuta_atsuyoshi.html,Waseda University,450,5,5,0,0,0,0
+HIRASAWA Shusaku,../players/hirasawa_shusaku.html,Hitachi,365,5,4,0,0,0,0
+IMAI Keizo,../players/imai_keizo.html,Towa Real Estate,?,1,0,0,0,0,0
+ISHII Shigemi,../players/ishii_shigemi.html,Chuo University,360,4,4,0,0,0,0
+KAMAMOTO Kunishige,../players/kamamoto_kunishige.html,Yanmar,450,5,5,5,0,0,0
+KAWAKAMI Nobuo,../players/kawakami_nobuo.html,Hitachi,450,5,5,0,0,0,0
+KIYOKUMO Eijun,../players/kiyokumo_eijun.html,Furukawa Electric,90,1,1,0,0,0,0
+KONO Kazuhisa,../players/kono_kazuhisa.html,Hitachi,90,1,1,0,0,0,0
+MORI Takaji,../players/mori_takaji.html,Mitsubishi Heavy Industries,90,1,1,0,0,0,0
+NAGAI Yoshikazu,../players/nagai_yoshikazu.html,Furukawa Electric,180+?,4,2,1,0,0,0
+OCHIAI Hiroshi,../players/ochiai_hiroshi.html,Mitsubishi Heavy Industries,90+?,2,1,0,0,0,0
+OGI Aritatsu,../players/ogi_aritatsu.html,Toyo Kogyo,450+?,6,6,0,0,0,0
+TAKABAYASHI Toshio,../players/takabayashi_toshio.html,Chuo University,?,4,2,1,0,0,0
+USUI Hiroyuki,../players/usui_hiroyuki.html,Waseda University,180,2,2,0,0,0,0
+WATANABE Mitsuo,../players/watanabe_mitsuo.html,Towa Real Estate,383+?,7,6,1,0,0,0
+YOKOTANI Masaki,../players/yokotani_masaki.html,Hosei University,90,1,1,0,0,0,0
+YOSHIMURA Daishiro,../players/yoshimura_daishiro.html,Yanmar,517+?,7,6,2,0,0,0

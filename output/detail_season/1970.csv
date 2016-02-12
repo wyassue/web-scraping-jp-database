@@ -1,0 +1,14 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1970-07-31,Hong Kong,../vs/hkg.html,N,L,1 - 2,0731.html,Kuala Lumpur,Merdeka Tournament
+2,1970-08-02,Korea Republic,../vs/kor.html,N,D,1 - 1,0802.html,"8,000",Kuala Lumpur,Merdeka Tournament
+3,1970-08-04,Thailand,../vs/tha.html,N,D,0 - 0,0804.html,Kuala Lumpur,Merdeka Tournament
+4,1970-08-08,Indonesia,../vs/idn.html,N,W,4 - 3,0808.html,Kuala Lumpur,Merdeka Tournament
+5,1970-08-10,Singapore,../vs/sin.html,N,W,4 - 0,0810.html,Kuala Lumpur,Merdeka Tournament
+6,1970-08-16,Taiwan,../vs/tpe.html,N,W,3 - 2,0816.html,Kuala Lumpur,Merdeka Tournament
+7,1970-12-10,Malaysia,../vs/mas.html,N,W,1 - 0,1210.html,"4,500",Bangkok,Asian Games,../competitions/asian_games.html
+8,1970-12-12,Khmer,../vs/cam.html,N,W,1 - 0,1212.html,"7,000",Bangkok,Asian Games,../competitions/asian_games.html
+9,1970-12-14,Burma,../vs/mya.html,N,W,2 - 1,1214.html,"10,000",Bangkok,Asian Games,../competitions/asian_games.html
+10,1970-12-16,Indonesia,../vs/idn.html,N,W,2 - 1,1216.html,"30,000",Bangkok,Asian Games,../competitions/asian_games.html
+11,1970-12-17,India,../vs/ind.html,N,W,1 - 0,1217.html,"4,000",Bangkok,Asian Games,../competitions/asian_games.html
+12,1970-12-18,Korea Republic,../vs/kor.html,N,L,1 - 2,1218.html,"25,000",Bangkok,Asian Games,../competitions/asian_games.html
+13,1970-12-19,India,../vs/ind.html,N,L,0 - 1,1219.html,"6,000",Bangkok,Asian Games,../competitions/asian_games.html

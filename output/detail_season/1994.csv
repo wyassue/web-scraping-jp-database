@@ -1,0 +1,10 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1994-05-22,Australia,../vs/aus.html,H,D,1 - 1,0522.html,"27,350",Hiroshima,Kirin Cup Soccer
+2,1994-05-29,France,../vs/fra.html,H,L,1 - 4,0529.html,"48,841",Tokyo,Kirin Cup Soccer
+3,1994-07-08,Ghana,../vs/gha.html,H,W,3 - 2,0708.html,"20,933",Nagoya,Asics Cup Soccer
+4,1994-07-14,Ghana,../vs/gha.html,H,W,2 - 1,0714.html,"39,107",Kobe,Asics Cup Soccer
+5,1994-09-27,Australia,../vs/aus.html,H,D,0 - 0,0927.html,"44,253",Tokyo,International Friendly
+6,1994-10-03,United Arab Emirates,../vs/uae.html,H,D,1 - 1,1003.html,"7,254",Miyoshi,Asian Games,../competitions/asian_games.html
+7,1994-10-05,Qatar,../vs/qat.html,H,D,1 - 1,1005.html,"11,056",Hiroshima,Asian Games,../competitions/asian_games.html
+8,1994-10-09,Myanmar,../vs/mya.html,H,W,5 - 0,1009.html,"7,172",Onomichi,Asian Games,../competitions/asian_games.html
+9,1994-10-11,Korea Republic,../vs/kor.html,H,L,2 - 3,1011.html,"9,752",Hiroshima,Asian Games,../competitions/asian_games.html

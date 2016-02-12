@@ -1,0 +1,23 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,2004-02-07,Malaysia,../vs/mas.html,H,W,4 - 0,0207.html,"29,530",Kashima,Kirin Challenge Cup
+2,2004-02-12,Iraq,../vs/irq.html,H,W,2 - 0,0212.html,"38,622",Tokyo,International Friendly
+3,2004-02-18,Oman,../vs/oma.html,H,W,1 - 0,0218.html,"60,207",Saitama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+4,2004-03-31,Singapore,../vs/sin.html,A,W,2 - 1,0331.html,"6,000",Singapore,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+5,2004-04-25,Hungary,../vs/hun.html,A,L,2 - 3,0425.html,"12,000",Zalaegerszeg,International Friendly
+6,2004-04-28,Czech Republic,../vs/cze.html,A,W,1 - 0,0428.html,"11,802",Prague,International Friendly
+7,2004-05-30,Iceland,../vs/isl.html,N,W,3 - 2,0530.html,"2,000",Manchester,International Friendly
+8,2004-06-01,England,../vs/eng.html,A,D,1 - 1,0601.html,"38,581",Manchester,International Friendly
+9,2004-06-09,India,../vs/ind.html,H,W,7 - 0,0609.html,"63,148",Saitama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+10,2004-07-09,Slovakia,../vs/svk.html,H,W,3 - 1,0709.html,"34,458",Hiroshima,Kirin Cup Soccer
+11,2004-07-13,Serbia and Montenegro,../vs/srb.html,H,W,1 - 0,0713.html,"57,616",Yokohama,Kirin Cup Soccer
+12,2004-07-20,Oman,../vs/oma.html,N,W,1 - 0,0720.html,"35,000",Chongqing,AFC Asian Cup,../competitions/afc_asian_cup.html
+13,2004-07-24,Thailand,../vs/tha.html,N,W,4 - 1,0724.html,"45,000",Chongqing,AFC Asian Cup,../competitions/afc_asian_cup.html
+14,2004-07-28,Iran,../vs/irn.html,N,D,0 - 0,0728.html,"52,000",Chongqing,AFC Asian Cup,../competitions/afc_asian_cup.html
+15,2004-07-31,Jordan,../vs/jor.html,N,D,P,1 - 1,0731.html,"52,000",Chongqing,AFC Asian Cup,../competitions/afc_asian_cup.html
+16,2004-08-03,Bahrain,../vs/bhr.html,N,W,4 - 3,0803.html,"32,050",Jinan,AFC Asian Cup,../competitions/afc_asian_cup.html
+17,2004-08-07,China PR,../vs/chn.html,A,W,3 - 1,0807.html,"62,000",Beijing,AFC Asian Cup,../competitions/afc_asian_cup.html
+18,2004-08-18,Argentina,../vs/arg.html,H,L,1 - 2,0818.html,"45,721",Shizuoka,Kirin Challenge Cup
+19,2004-09-08,India,../vs/ind.html,A,W,4 - 0,0908.html,"90,000",Kolkata,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+20,2004-10-13,Oman,../vs/oma.html,A,W,1 - 0,1013.html,"35,000",Muscat,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+21,2004-11-17,Singapore,../vs/sin.html,H,W,1 - 0,1117.html,"58,881",Saitama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+22,2004-12-16,Germany,../vs/ger.html,H,L,0 - 3,1216.html,"63,023",Yokohama,Kirin Challenge Cup

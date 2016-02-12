@@ -1,0 +1,11 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1983-02-12,Syria,../vs/syr.html,A,D,2 - 2,0212.html,Damascus,International Friendly
+2,1983-02-25,Qatar,../vs/qat.html,A,L,0 - 1,0225.html,Doha,International Friendly
+3,1983-03-06,Korea Republic,../vs/kor.html,H,D,1 - 1,0306.html,"20,000",Tokyo,Japan-Korea Annual Match
+4,1983-06-07,Syria,../vs/syr.html,H,W,1 - 0,0607.html,"20,000",Tokyo,Japan Cup Kirin World Soccer
+5,1983-09-04,Philippines,../vs/phi.html,H,W,7 - 0,0904.html,"9,000",Tokyo,Summer Olympics Qualifier,../competitions/summer_olympics_qualification.html
+6,1983-09-07,Philippines,../vs/phi.html,H,W,10 - 1,0907.html,"8,000",Tokyo,Summer Olympics Qualifier,../competitions/summer_olympics_qualification.html
+7,1983-09-15,Chinese Taipei,../vs/tpe.html,H,W,2 - 0,0915.html,"9,000",Tokyo,Summer Olympics Qualifier,../competitions/summer_olympics_qualification.html
+8,1983-09-20,Chinese Taipei,../vs/tpe.html,A,D,1 - 1,0920.html,Taipei,Summer Olympics Qualifier,../competitions/summer_olympics_qualification.html
+9,1983-09-25,New Zealand,../vs/nzl.html,A,L,1 - 3,0925.html,Auckland,Summer Olympics Qualifier,../competitions/summer_olympics_qualification.html
+10,1983-10-07,New Zealand,../vs/nzl.html,H,L,0 - 1,1007.html,"20,000",Tokyo,Summer Olympics Qualifier,../competitions/summer_olympics_qualification.html

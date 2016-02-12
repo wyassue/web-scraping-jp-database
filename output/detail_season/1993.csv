@@ -1,0 +1,17 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1993-03-07,Hungary,../vs/hun.html,H,L,0 - 1,0307.html,"30,000",Fukuoka,Kirin Cup Soccer
+2,1993-03-14,USA,../vs/usa.html,H,W,3 - 1,0314.html,"48,000",Tokyo,Kirin Cup Soccer
+3,1993-04-08,Thailand,../vs/tha.html,H,W,1 - 0,0408.html,"40,000",Kobe,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+4,1993-04-11,Bangladesh,../vs/ban.html,H,W,8 - 0,0411.html,"53,000",Tokyo,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+5,1993-04-15,Sri Lanka,../vs/sri.html,H,W,5 - 0,0415.html,"40,000",Tokyo,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+6,1993-04-18,United Arab Emirates,../vs/uae.html,H,W,2 - 0,0418.html,"55,000",Tokyo,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+7,1993-04-28,Thailand,../vs/tha.html,N,W,1 - 0,0428.html,"2,000",Dubai,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+8,1993-04-30,Bangladesh,../vs/ban.html,N,W,4 - 1,0430.html,"1,500",Dubai,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+9,1993-05-05,Sri Lanka,../vs/sri.html,N,W,6 - 0,0505.html,500,Dubai,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+10,1993-05-07,United Arab Emirates,../vs/uae.html,A,D,1 - 1,0507.html,"10,000",Al Ain,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+11,1993-10-04,Cote d'Ivoire,../vs/civ.html,H,W,1 - 0,1004.html,"53,302",Tokyo,Afro-Asian Cup of Nations,../competitions/afc_asia_africa_challenge_cup.html
+12,1993-10-15,Saudi Arabia,../vs/ksa.html,N,D,0 - 0,1015.html,"20,000",Doha,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+13,1993-10-18,Iran,../vs/irn.html,N,L,1 - 2,1018.html,"8,000",Doha,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+14,1993-10-21,Korea DPR,../vs/prk.html,N,W,3 - 0,1021.html,"1,500",Doha,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+15,1993-10-25,Korea Republic,../vs/kor.html,N,W,1 - 0,1025.html,"3,000",Doha,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+16,1993-10-28,Iraq,../vs/irq.html,N,D,2 - 2,1028.html,"5,000",Doha,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html

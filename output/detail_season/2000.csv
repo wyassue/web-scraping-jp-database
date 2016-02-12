@@ -1,0 +1,19 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,2000-02-05,Mexico,../vs/mex.html,N,L,0 - 1,0205.html,Hong Kong,Carlsberg Cup
+2,2000-02-13,Singapore,../vs/sin.html,N,W,3 - 0,0213.html,"2,000",Macau,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html
+3,2000-02-16,Brunei Darussalam,../vs/bru.html,N,W,9 - 0,0216.html,Macau,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html
+4,2000-02-20,Macau,../vs/mac.html,A,W,3 - 0,0220.html,Macau,AFC Asian Cup Qualifier,../competitions/afc_asian_cup_qualification.html
+5,2000-03-15,China PR,../vs/chn.html,H,D,0 - 0,0315.html,"39,482",Kobe,Kirin Beverage
+6,2000-04-26,Korea Republic,../vs/kor.html,A,L,0 - 1,0426.html,"70,000",Seoul,International Friendly
+7,2000-06-04,France,../vs/fra.html,N,D,2 - 2,0604.html,P,Casablanca,Hassan II Cup
+8,2000-06-06,Jamaica,../vs/jam.html,N,W,4 - 0,0606.html,Casablanca,Hassan II Cup
+9,2000-06-11,Slovakia,../vs/svk.html,H,D,1 - 1,0611.html,"45,831",Miyagi,Kirin Cup Soccer
+10,2000-06-18,Bolivia,../vs/bol.html,H,W,2 - 0,0618.html,"65,073",Yokohama,Kirin Cup Soccer
+11,2000-08-16,United Arab Emirates,../vs/uae.html,H,W,3 - 1,0816.html,"32,402",Hiroshima,Kirin Challenge
+12,2000-10-14,Saudi Arabia,../vs/ksa.html,N,W,4 - 1,1014.html,Saida,AFC Asian Cup,../competitions/afc_asian_cup.html
+13,2000-10-17,Uzbekistan,../vs/uzb.html,N,W,8 - 1,1017.html,Saida,AFC Asian Cup,../competitions/afc_asian_cup.html
+14,2000-10-20,Qatar,../vs/qat.html,N,D,1 - 1,1020.html,Beirut,AFC Asian Cup,../competitions/afc_asian_cup.html
+15,2000-10-24,Iraq,../vs/irq.html,N,W,4 - 1,1024.html,Beirut,AFC Asian Cup,../competitions/afc_asian_cup.html
+16,2000-10-26,China PR,../vs/chn.html,N,W,3 - 2,1026.html,Beirut,AFC Asian Cup,../competitions/afc_asian_cup.html
+17,2000-10-29,Saudi Arabia,../vs/ksa.html,N,W,1 - 0,1029.html,Beirut,AFC Asian Cup,../competitions/afc_asian_cup.html
+18,2000-12-20,Korea Republic,../vs/kor.html,H,D,1 - 1,1220.html,"54,145",Tokyo,Kirin Beverage

@@ -1,0 +1,18 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1976-01-25,Bulgaria,../vs/bul.html,H,L,1 - 3,0125.html,"20,000",Tokyo,Asahi International Soccer Tournament
+2,1976-01-28,Bulgaria,../vs/bul.html,H,D,1 - 1,0128.html,"5,000",Osaka,Asahi International Soccer Tournament
+3,1976-02-01,Bulgaria,../vs/bul.html,H,L,0 - 3,0201.html,"20,000",Tokyo,Asahi International Soccer Tournament
+4,1976-03-14,Philippines,../vs/phi.html,H,W,3 - 0,0314.html,"25,000",Tokyo,Summer Olympics Qualifier,../competitions/summer_olympics_qualification.html
+5,1976-03-17,Philippines,../vs/phi.html,H,W,3 - 0,0317.html,"2,000",Tokyo,Summer Olympics Qualifier,../competitions/summer_olympics_qualification.html
+6,1976-03-21,Korea Republic,../vs/kor.html,H,L,0 - 2,0321.html,"58,000",Tokyo,Summer Olympics Qualifier,../competitions/summer_olympics_qualification.html
+7,1976-03-27,Korea Republic,../vs/kor.html,A,D,2 - 2,0327.html,"30,000",Seoul,Summer Olympics Qualifier,../competitions/summer_olympics_qualification.html
+8,1976-03-31,Israel,../vs/isr.html,N,L,0 - 3,0331.html,"20,000",Seoul,Summer Olympics Qualifier,../competitions/summer_olympics_qualification.html
+9,1976-04-11,Israel,../vs/isr.html,A,L,1 - 4,0411.html,"35,000",Tel Aviv,Summer Olympics Qualifier,../competitions/summer_olympics_qualification.html
+10,1976-08-08,India,../vs/ind.html,N,W,5 - 1,0808.html,"15,000",Kuala Lumpur,Merdeka Tournament
+11,1976-08-10,Indonesia,../vs/idn.html,N,W,6 - 0,0810.html,Kuala Lumpur,Merdeka Tournament
+12,1976-08-13,Burma,../vs/mya.html,N,D,2 - 2,0813.html,"20,000",Kuala Lumpur,Merdeka Tournament
+13,1976-08-16,Thailand,../vs/tha.html,N,D,2 - 2,0816.html,Kuala Lumpur,Merdeka Tournament
+14,1976-08-18,Korea Republic,../vs/kor.html,N,D,0 - 0,0818.html,Kuala Lumpur,Merdeka Tournament
+15,1976-08-20,Malaysia,../vs/mas.html,A,D,2 - 2,0820.html,"35,000",Kuala Lumpur,Merdeka Tournament
+16,1976-08-22,Malaysia,../vs/mas.html,A,L,0 - 2,0822.html,"55,000",Kuala Lumpur,Merdeka Tournament
+17,1976-12-04,Korea Republic,../vs/kor.html,H,L,1 - 2,1204.html,"8,464",Tokyo,Japan-Korea Annual Match

@@ -1,0 +1,11 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1985-02-23,Singapore,../vs/sin.html,A,W,3 - 1,0223.html,Singapore,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+2,1985-03-21,Korea DPR,../vs/prk.html,H,W,1 - 0,0321.html,"25,000",Tokyo,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+3,1985-04-30,Korea DPR,../vs/prk.html,A,D,0 - 0,0430.html,"80,000",Pyongyang,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+4,1985-05-18,Singapore,../vs/sin.html,H,W,5 - 0,0518.html,"28,000",Tokyo,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+5,1985-05-26,Uruguay,../vs/uru.html,H,L,1 - 4,0526.html,"30,000",Tokyo,Kirin Cup Soccer
+6,1985-06-04,Malaysia,../vs/mas.html,H,W,3 - 0,0604.html,"15,000",Nagoya,Kirin Cup Soccer
+7,1985-08-11,Hong Kong,../vs/hkg.html,H,W,3 - 0,0811.html,"19,000",Kobe,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+8,1985-09-22,Hong Kong,../vs/hkg.html,A,W,2 - 1,0922.html,"28,000",Hong Kong,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+9,1985-10-26,Korea Republic,../vs/kor.html,H,L,1 - 2,1026.html,"62,000",Tokyo,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+10,1985-11-03,Korea Republic,../vs/kor.html,A,L,0 - 1,1103.html,"70,000",Seoul,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html

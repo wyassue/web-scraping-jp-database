@@ -1,0 +1,20 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,2013-02-06,Latvia,../vs/lva.html,H,W,3 - 0,0206.html,"28,607",Kobe,Kirin Challenge Cup
+2,2013-03-22,Canada,../vs/can.html,N,W,2 - 1,0322.html,"2,000",Doha,International Friendly
+3,2013-03-26,Jordan,../vs/jor.html,A,L,1 - 2,0326.html,"18,000",Amman,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+4,2013-05-30,Bulgaria,../vs/bul.html,H,L,0 - 2,0530.html,"41,353",Toyota,Kirin Challenge Cup
+5,2013-06-04,Australia,../vs/aus.html,H,D,1 - 1,0604.html,"62,172",Saitama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+6,2013-06-11,Iraq,../vs/irq.html,N,W,1 - 0,0611.html,"1,100",Doha,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+7,2013-06-15,Brazil,../vs/bra.html,A,L,0 - 3,0615.html,"67,423",Brasilia,FIFA Confederations Cup,../competitions/fifa_confederations_cup.html
+8,2013-06-19,Italy,../vs/ita.html,N,L,3 - 4,0619.html,"40,489",Recife,FIFA Confederations Cup,../competitions/fifa_confederations_cup.html
+9,2013-06-22,Mexico,../vs/mex.html,N,L,1 - 2,0622.html,"52,690",Belo Horizonte,FIFA Confederations Cup,../competitions/fifa_confederations_cup.html
+10,2013-07-21,China PR,../vs/chn.html,N,D,3 - 3,0721.html,"3,500",Seoul,EAFF East Asian Cup,../competitions/eaff_east_asian_cup.html
+11,2013-07-25,Australia,../vs/aus.html,N,W,3 - 2,0725.html,"1,458",Hwaseong,EAFF East Asian Cup,../competitions/eaff_east_asian_cup.html
+12,2013-07-28,Korea Republic,../vs/kor.html,A,W,2 - 1,0728.html,"47,258",Seoul,EAFF East Asian Cup,../competitions/eaff_east_asian_cup.html
+13,2013-08-14,Uruguay,../vs/uru.html,H,L,2 - 4,0814.html,"45,883",Miyagi,Kirin Challenge Cup
+14,2013-09-06,Guatemala,../vs/gua.html,H,W,3 - 0,0906.html,"46,244",Osaka,Kirin Challenge Cup
+15,2013-09-10,Ghana,../vs/gha.html,H,W,3 - 1,0910.html,"64,525",Yokohama,Kirin Challenge Cup
+16,2013-10-11,Serbia,../vs/srb.html,A,L,0 - 2,1011.html,"10,000",Novi Sad,International Friendly
+17,2013-10-15,Belarus,../vs/blr.html,A,L,0 - 1,1015.html,"3,000",Minsk,International Friendly
+18,2013-11-16,Netherlands,../vs/ned.html,N,D,2 - 2,1116.html,"13,616",Genk,International Friendly
+19,2013-11-19,Belgium,../vs/bel.html,A,W,3 - 2,1119.html,"43,000",Brussels,International Friendly

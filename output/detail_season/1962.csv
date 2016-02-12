@@ -1,0 +1,8 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1962-08-25,Thailand,../vs/tha.html,N,W,3 - 1,0825.html,"2,000",Jakarta,Asian Games,../competitions/asian_games.html
+2,1962-08-29,India,../vs/ind.html,N,L,0 - 2,0829.html,Jakarta,Asian Games,../competitions/asian_games.html
+3,1962-08-30,Korea Republic,../vs/kor.html,N,L,0 - 1,0830.html,"90,000",Jakarta,Asian Games,../competitions/asian_games.html
+4,1962-09-08,Malaya,../vs/mas.html,A,D,2 - 2,0908.html,Kuala Lumpur,Merdeka Tournament
+5,1962-09-12,Pakistan,../vs/pak.html,N,D,1 - 1,0912.html,Kuala Lumpur,Merdeka Tournament
+6,1962-09-15,Burma,../vs/mya.html,N,L,1 - 3,0915.html,Kuala Lumpur,Merdeka Tournament
+7,1962-09-21,Singapore,../vs/sin.html,A,L,1 - 2,0921.html,"3,000",Singapore,International Friendly

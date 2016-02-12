@@ -1,0 +1,17 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1995-01-06,Nigeria,../vs/nga.html,N,L,0 - 3,0106.html,"25,000",Riyadh,King Fahd Cup,../competitions/fifa_confederations_cup.html
+2,1995-01-08,Argentina,../vs/arg.html,N,L,1 - 5,0108.html,"10,000",Riyadh,King Fahd Cup,../competitions/fifa_confederations_cup.html
+3,1995-02-15,Australia,../vs/aus.html,A,L,1 - 2,0215.html,"4,541",Sydney,International Friendly
+4,1995-02-21,Korea Republic,../vs/kor.html,N,D,1 - 1,0221.html,"14,292",Hong Kong,Dynasty Cup,../competitions/dynasty_cup.html
+5,1995-02-23,China PR,../vs/chn.html,N,W,2 - 1,0223.html,"3,417",Hong Kong,Dynasty Cup,../competitions/dynasty_cup.html
+6,1995-02-26,Korea Republic,../vs/kor.html,N,D,P,2 - 2,0226.html,"25,246",Hong Kong,Dynasty Cup,../competitions/dynasty_cup.html
+7,1995-05-21,Scotland,../vs/sco.html,H,D,0 - 0,0521.html,"24,566",Hiroshima,Kirin Cup Soccer
+8,1995-05-28,Ecuador,../vs/ecu.html,H,W,3 - 0,0528.html,"53,438",Tokyo,Kirin Cup Soccer
+9,1995-06-03,England,../vs/eng.html,A,L,1 - 2,0603.html,"21,142",London,Umbro Cup
+10,1995-06-06,Brazil,../vs/bra.html,N,L,0 - 3,0606.html,"29,327",Liverpool,Umbro Cup
+11,1995-06-10,Sweden,../vs/swe.html,N,D,2 - 2,0610.html,"5,591",Nottingham,Umbro Cup
+12,1995-08-06,Costa Rica,../vs/crc.html,H,W,3 - 0,0806.html,"20,429",Kyoto,International Friendly
+13,1995-08-09,Brazil,../vs/bra.html,H,L,1 - 5,0809.html,"53,605",Tokyo,Sun Sparc Cup
+14,1995-09-20,Paraguay,../vs/par.html,H,L,1 - 2,0920.html,"22,544",Tokyo,Descente Adidas Match
+15,1995-10-24,Saudi Arabia,../vs/ksa.html,H,W,2 - 1,1024.html,"37,576",Tokyo,Descente Adidas Match
+16,1995-10-28,Saudi Arabia,../vs/ksa.html,H,W,2 - 1,1028.html,"16,085",Matsuyama,Descente Adidas Match

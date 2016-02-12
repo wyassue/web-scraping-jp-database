@@ -1,0 +1,16 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,2011-01-09,Jordan,../vs/jor.html,N,D,1 - 1,0109.html,"6,255",Doha,AFC Asian Cup,../competitions/afc_asian_cup.html
+2,2011-01-13,Syria,../vs/syr.html,N,W,2 - 1,0113.html,"10,453",Doha,AFC Asian Cup,../competitions/afc_asian_cup.html
+3,2011-01-17,Saudi Arabia,../vs/ksa.html,N,W,5 - 0,0117.html,"2,022",Al Rayyan,AFC Asian Cup,../competitions/afc_asian_cup.html
+4,2011-01-21,Qatar,../vs/qat.html,A,W,3 - 2,0121.html,"19,479",Doha,AFC Asian Cup,../competitions/afc_asian_cup.html
+5,2011-01-25,Korea Republic,../vs/kor.html,N,D,P,2 - 2,0125.html,"16,171",Doha,AFC Asian Cup,../competitions/afc_asian_cup.html
+6,2011-01-29,Australia,../vs/aus.html,N,W,1 - 0,0129.html,"37,174",Doha,AFC Asian Cup,../competitions/afc_asian_cup.html
+7,2011-06-01,Peru,../vs/per.html,H,D,0 - 0,0601.html,"39,048",Niigata,Kirin Cup Soccer
+8,2011-06-07,Czech Republic,../vs/cze.html,H,D,0 - 0,0607.html,"65,856",Yokohama,Kirin Cup Soccer
+9,2011-08-10,Korea Republic,../vs/kor.html,H,W,3 - 0,0810.html,"38,263",Sapporo,Kirin Challenge Cup
+10,2011-09-02,Korea DPR,../vs/prk.html,H,W,1 - 0,0902.html,"54,624",Saitama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+11,2011-09-07,Uzbekistan,../vs/uzb.html,A,D,1 - 1,0907.html,"32,000",Tashkent,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+12,2011-10-07,Vietnam,../vs/vie.html,H,W,1 - 0,1007.html,"27,522",Kobe,Kirin Challenge Cup
+13,2011-10-11,Tajikistan,../vs/tjk.html,H,W,8 - 0,1011.html,"44,688",Osaka,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+14,2011-11-11,Tajikistan,../vs/tjk.html,A,W,4 - 0,1111.html,"18,000",Dushanbe,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+15,2011-11-15,Korea DPR,../vs/prk.html,A,L,0 - 1,1115.html,"50,000",Pyongyang,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html

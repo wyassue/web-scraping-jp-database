@@ -1,0 +1,15 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1978-05-23,Thailand,../vs/tha.html,H,W,3 - 0,0523.html,"3,000",Nagoya,Japan Cup
+2,1978-07-13,Iraq,../vs/irq.html,N,D,0 - 0,0713.html,"5,000",Kuala Lumpur,Merdeka Tournament
+3,1978-07-15,Indonesia,../vs/idn.html,N,L,1 - 2,0715.html,Kuala Lumpur,Merdeka Tournament
+4,1978-07-17,Syria,../vs/syr.html,N,W,3 - 2,0717.html,Kuala Lumpur,Merdeka Tournament
+5,1978-07-19,Korea Republic,../vs/kor.html,N,L,0 - 4,0719.html,Kuala Lumpur,Merdeka Tournament
+6,1978-07-21,Malaysia,../vs/mas.html,A,L,1 - 4,0721.html,"18,000",Kuala Lumpur,Merdeka Tournament
+7,1978-07-23,Singapore,../vs/sin.html,N,L,1 - 2,0723.html,Kuala Lumpur,Merdeka Tournament
+8,1978-07-26,Thailand,../vs/tha.html,N,W,4 - 0,0726.html,Kuala Lumpur,Merdeka Tournament
+9,1978-11-19,Soviet Union,../vs/rus.html,H,L,1 - 4,1119.html,"8,000",Tokyo,International Friendly
+10,1978-11-23,Soviet Union,../vs/rus.html,H,L,1 - 4,1123.html,"9,000",Tokyo,International Friendly
+11,1978-11-26,Soviet Union,../vs/rus.html,H,L,0 - 3,1126.html,"8,000",Osaka,International Friendly
+12,1978-12-11,Kuwait,../vs/kuw.html,N,L,0 - 2,1211.html,Bangkok,Asian Games,../competitions/asian_games.html
+13,1978-12-13,Bahrain,../vs/bhr.html,N,W,4 - 0,1213.html,Bangkok,Asian Games,../competitions/asian_games.html
+14,1978-12-15,Korea Republic,../vs/kor.html,N,L,1 - 3,1215.html,Bangkok,Asian Games,../competitions/asian_games.html

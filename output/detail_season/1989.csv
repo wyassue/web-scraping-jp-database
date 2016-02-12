@@ -1,0 +1,12 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1989-01-20,Iran,../vs/irn.html,A,D,2 - 2,0120.html,"65,000",Tehran,International Friendly
+2,1989-05-05,Korea Republic,../vs/kor.html,A,L,0 - 1,0505.html,"25,000",Seoul,Japan-Korea Annual Match
+3,1989-05-10,China PR,../vs/chn.html,H,D,2 - 2,0510.html,"5,000",Tokyo,International Friendly
+4,1989-05-13,China PR,../vs/chn.html,H,W,2 - 0,0513.html,"7,000",Okayama,International Friendly
+5,1989-05-22,Hong Kong,../vs/hkg.html,A,D,0 - 0,0522.html,"16,313",Hong Kong,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+6,1989-05-28,Indonesia,../vs/idn.html,A,D,0 - 0,0528.html,"80,000",Jakarta,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+7,1989-06-04,Korea DPR,../vs/prk.html,H,W,2 - 1,0604.html,"35,000",Tokyo,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+8,1989-06-11,Indonesia,../vs/idn.html,H,W,5 - 0,0611.html,"9,000",Tokyo,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+9,1989-06-18,Hong Kong,../vs/hkg.html,H,D,0 - 0,0618.html,"28,000",Kobe,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+10,1989-06-25,Korea DPR,../vs/prk.html,A,L,0 - 2,0625.html,"35,000",Pyongyang,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+11,1989-07-23,Brazil,../vs/bra.html,A,L,0 - 1,0723.html,"2,174",Rio de Janeiro,International Friendly

@@ -1,0 +1,13 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,2012-02-24,Iceland,../vs/isl.html,H,W,3 - 1,0224.html,"42,579",Osaka,Kirin Challenge Cup
+2,2012-02-29,Uzbekistan,../vs/uzb.html,H,L,0 - 1,0229.html,"42,720",Toyota,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+3,2012-05-23,Azerbaijan,../vs/aze.html,H,W,2 - 0,0523.html,"30,276",Shizuoka,Kirin Challenge Cup
+4,2012-06-03,Oman,../vs/oma.html,H,W,3 - 0,0603.html,"63,551",Saitama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+5,2012-06-08,Jordan,../vs/jor.html,H,W,6 - 0,0608.html,"60,874",Saitama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+6,2012-06-12,Australia,../vs/aus.html,A,D,1 - 1,0612.html,"40,189",Brisbane,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+7,2012-08-15,Venezuela,../vs/ven.html,H,D,1 - 1,0815.html,"39,396",Sapporo,Kirin Challenge Cup
+8,2012-09-06,United Arab Emirates,../vs/uae.html,H,W,1 - 0,0906.html,"42,020",Niigata,Kirin Challenge Cup
+9,2012-09-11,Iraq,../vs/irq.html,H,W,1 - 0,0911.html,"60,593",Saitama,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html
+10,2012-10-12,France,../vs/fra.html,A,W,1 - 0,1012.html,"60,205",Saint-Denis,International Friendly
+11,2012-10-16,Brazil,../vs/bra.html,N,L,0 - 4,1016.html,"26,180",Wroclaw,International Friendly
+12,2012-11-14,Oman,../vs/oma.html,A,H,2 - 1,1114.html,"28,360",Muscat,FIFA World Cup Qualifier,../competitions/fifa_world_cup_qualification.html

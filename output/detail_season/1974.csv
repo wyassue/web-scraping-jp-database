@@ -1,0 +1,8 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1974-02-12,Singapore,../vs/sin.html,A,W,1 - 0,0212.html,"5,000",Singapore,International Friendly
+2,1974-02-20,Hong Kong,../vs/hkg.html,A,D,0 - 0,0220.html,"7,820",Hong Kong,International Friendly
+3,1974-07-23,Romania,../vs/rou.html,A,L,1 - 4,0723.html,"8,000",Constanta,International Friendly
+4,1974-09-03,Philippines,../vs/phi.html,N,W,4 - 0,0903.html,"20,000",Tehran,Asian Games,../competitions/asian_games.html
+5,1974-09-05,Malaysia,../vs/mas.html,N,D,1 - 1,0905.html,Tehran,Asian Games,../competitions/asian_games.html
+6,1974-09-07,Israel,../vs/isr.html,N,L,0 - 3,0907.html,"30,000",Tehran,Asian Games,../competitions/asian_games.html
+7,1974-09-28,Korea Republic,../vs/kor.html,H,W,4 - 1,0928.html,"12,000",Tokyo,Japan-Korea Annual Match

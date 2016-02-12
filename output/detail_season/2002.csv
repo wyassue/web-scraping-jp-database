@@ -1,0 +1,14 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,2002-03-21,Ukraine,../vs/ukr.html,H,W,1 - 0,0321.html,"45,214",Osaka,Kirin Challenge Cup
+2,2002-03-27,Poland,../vs/pol.html,A,W,2 - 0,0327.html,"10,000",Lodz,International Friendly
+3,2002-04-17,Costa Rica,../vs/crc.html,H,D,1 - 1,0417.html,"64,783",Yokohama,Kirin Challenge Cup
+4,2002-04-29,Slovakia,../vs/svk.html,H,W,1 - 0,0429.html,"55,144",Tokyo,Kirin Cup Soccer
+5,2002-05-02,Honduras,../vs/hon.html,H,D,3 - 3,0502.html,"38,130",Kobe,Kirin Cup Soccer
+6,2002-05-14,Norway,../vs/nor.html,A,L,0 - 3,0514.html,"8,348",Oslo,International Friendly
+7,2002-05-25,Sweden,../vs/swe.html,H,D,1 - 1,0525.html,"55,418",Tokyo,Kirin Challenge Cup
+8,2002-06-04,Belgium,../vs/bel.html,H,D,2 - 2,0604.html,"55,256",Saitama,FIFA World Cup,../competitions/fifa_world_cup.html
+9,2002-06-09,Russia,../vs/rus.html,H,W,1 - 0,0609.html,"66,108",Yokohama,FIFA World Cup,../competitions/fifa_world_cup.html
+10,2002-06-14,Tunisia,../vs/tun.html,H,W,2 - 0,0614.html,"45,213",Osaka,FIFA World Cup,../competitions/fifa_world_cup.html
+11,2002-06-18,Turkey,../vs/tur.html,H,L,0 - 1,0618.html,"45,666",Miyagi,FIFA World Cup,../competitions/fifa_world_cup.html
+12,2002-10-16,Jamaica,../vs/jam.html,H,D,1 - 1,1016.html,"55,437",Tokyo,Kirin Challenge Cup
+13,2002-11-20,Argentina,../vs/arg.html,H,L,0 - 2,1120.html,"61,816",Saitama,Kirin Challenge Cup

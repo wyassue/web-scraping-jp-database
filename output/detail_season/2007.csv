@@ -1,0 +1,14 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,2007-03-24,Peru,../vs/per.html,H,W,2 - 0,0324.html,"60,400",Yokohama,Kirin Challenge Cup
+2,2007-06-01,Montenegro,../vs/mne.html,H,W,2 - 0,0601.html,"28,635",Shizuoka,Kirin Cup Soccer
+3,2007-06-05,Colombia,../vs/col.html,H,D,0 - 0,0605.html,"45,091",Saitama,Kirin Cup Soccer
+4,2007-07-09,Qatar,../vs/qat.html,N,D,1 - 1,0709.html,"5,000",Hanoi,AFC Asian Cup,../competitions/afc_asian_cup.html
+5,2007-07-13,United Arab Emirates,../vs/uae.html,N,W,3 - 1,0713.html,"5,000",Hanoi,AFC Asian Cup,../competitions/afc_asian_cup.html
+6,2007-07-16,Vietnam,../vs/vie.html,A,W,4 - 1,0716.html,"40,000",Hanoi,AFC Asian Cup,../competitions/afc_asian_cup.html
+7,2007-07-21,Australia,../vs/aus.html,N,D,P,1 - 1,0721.html,"25,000",Hanoi,AFC Asian Cup,../competitions/afc_asian_cup.html
+8,2007-07-25,Saudi Arabia,../vs/ksa.html,N,L,2 - 3,0725.html,"10,000",Hanoi,AFC Asian Cup,../competitions/afc_asian_cup.html
+9,2007-07-28,Korea Republic,../vs/kor.html,N,D,0 - 0,0728.html,P,"10,000",Palembang,AFC Asian Cup,../competitions/afc_asian_cup.html
+10,2007-08-22,Cameroon,../vs/cmr.html,H,W,2 - 0,0822.html,"37,240",Oita,Kirin Challenge Cup
+11,2007-09-07,Austria,../vs/aut.html,A,D,0 - 0,0907.html,P,"26,142",Klagenfurt,Tri-Continent Tournament
+12,2007-09-11,Switzerland,../vs/sui.html,N,W,4 - 3,0911.html,"19,500",Klagenfurt,Tri-Continent Tournament
+13,2007-10-17,Egypt,../vs/egy.html,H,W,4 - 1,1017.html,"41,901",Osaka,AFC Asia/Africa Challenge Cup,../competitions/afc_asia_africa_challenge_cup.html

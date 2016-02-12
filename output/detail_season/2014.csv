@@ -1,0 +1,14 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,2014-03-05,New Zealand,../vs/nzl.html,H,W,4 - 2,0305.html,"47,670",Tokyo,Kirin Challenge Cup
+2,2014-05-27,Cyprus,../vs/cyp.html,H,W,1 - 0,0527.html,"58,564",Saitama,Kirin Challenge Cup
+3,2014-06-02,Costa Rica,../vs/crc.html,N,W,3 - 1,0602.html,"7,106",Tampa,International Friendly
+4,2014-06-06,Zambia,../vs/zam.html,N,W,4 - 3,0606.html,"7,275",Tampa,International Friendly
+5,2014-06-14,Cote d'Ivoire,../vs/civ.html,N,L,1 - 2,0614.html,"40,267",Recife,FIFA World Cup,../competitions/fifa_world_cup.html
+6,2014-06-19,Greece,../vs/gre.html,N,D,0 - 0,0619.html,"39,485",Natal,FIFA World Cup,../competitions/fifa_world_cup.html
+7,2014-06-24,Colombia,../vs/col.html,N,L,1 - 4,0624.html,"40,340",Cuiaba,FIFA World Cup,../competitions/fifa_world_cup.html
+8,2014-09-05,Uruguay,../vs/uru.html,H,L,0 - 2,0905.html,"39,294",Sapporo,Kirin Challenge Cup
+9,2014-09-09,Venezuela,../vs/ven.html,H,D,2 - 2,0909.html,"64,007",Yokohama,Kirin Challenge Cup
+10,2014-10-10,Jamaica,../vs/jam.html,H,W,1 - 0,1010.html,"39,628",Niigata,Kirin Challenge Cup
+11,2014-10-14,Brazil,../vs/bra.html,N,L,0 - 4,1014.html,"51,577",Singapore,International Friendly
+12,2014-11-14,Honduras,../vs/hon.html,H,W,6 - 0,1114.html,"42,126",Toyota,Kirin Challenge Cup
+13,2014-11-18,Australia,../vs/aus.html,H,W,2 - 1,1118.html,"46,312",Osaka,Kirin Challenge Cup

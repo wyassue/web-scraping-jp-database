@@ -1,0 +1,12 @@
+id,Date,Opponent,Link,H/A,Form,Score,Link Match,Attendance,Venue,Competition
+1,1998-02-15,Australia,../vs/aus.html,A,W,3 - 0,0215.html,"9,541",Adelaide,International Friendly
+2,1998-03-01,Korea Republic,../vs/kor.html,H,W,2 - 1,0301.html,"59,380",Yokohama,Dynasty Cup,../competitions/dynasty_cup.html
+3,1998-03-07,China PR,../vs/chn.html,H,L,0 - 2,0307.html,"53,226",Tokyo,Dynasty Cup,../competitions/dynasty_cup.html
+4,1998-04-01,Korea Republic,../vs/kor.html,A,L,1 - 2,0401.html,"55,000",Seoul,2002 FIFA World Cup Co-Host Anniversary
+5,1998-05-17,Paraguay,../vs/par.html,H,D,1 - 1,0517.html,"53,408",Tokyo,Kirin Cup Soccer
+6,1998-05-24,Czech Republic,../vs/cze.html,H,D,0 - 0,0524.html,"66,930",Yokohama,Kirin Cup Soccer
+7,1998-06-03,Yugoslavia,../vs/srb.html,N,L,0 - 1,0603.html,Lausanne,International Friendly
+8,1998-06-14,Argentina,../vs/arg.html,N,L,0 - 1,0614.html,"33,400",Toulouse,FIFA World Cup,../competitions/fifa_world_cup.html
+9,1998-06-20,Croatia,../vs/cro.html,N,L,0 - 1,0620.html,"35,500",Nantes,FIFA World Cup,../competitions/fifa_world_cup.html
+10,1998-06-26,Jamaica,../vs/jam.html,N,L,1 - 2,0626.html,"39,100",Lyon,FIFA World Cup,../competitions/fifa_world_cup.html
+11,1998-10-28,Egypt,../vs/egy.html,H,W,1 - 0,1028.html,"47,996",Osaka,Kirin Challenge
